@@ -1,6 +1,6 @@
 # Mapping Earthquakes
 
-A portal for graphically displaying earthquake information 
+A interactive map for graphically displaying earthquake information 
 
 ## Last 7 days
 
