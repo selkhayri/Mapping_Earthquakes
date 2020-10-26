@@ -1,6 +1,11 @@
 # Mapping Earthquakes
 
-A interactive map for graphically displaying earthquake information 
+## Aim
+The aim of this project is to create an interactive map for graphically displaying earthquake information. The elements of the interface are as follows:
+
+* Circles of varying colours and sizes are placed at locations of earthquakes
+* The radius and colour of a circle signifies the magnitude of the related earthquake
+* Clicking on a circle brings up a popup marker containing the specific magnitude and location information of the related earthquake
 
 ## Last 7 days
 
